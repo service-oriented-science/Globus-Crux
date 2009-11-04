@@ -1,0 +1,6 @@
+[submodule "Core"]
+	path = Core
+	url = git://github.com/service-oriented-science/Globus-Crux-Core.git
+[submodule "Security"]
+	path = Security
+	url = git://github.com/service-oriented-science/Globus-Security.git
